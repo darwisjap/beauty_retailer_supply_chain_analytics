@@ -68,4 +68,4 @@ Data analytics plays a crucial role in supply chain management by providing insi
 
 ---
 ## Code
-A full code can be found in [this link](https://nbviewer.org/github/darwisjap/beauty_retailer_supply_chain_analytics/blob/main/code/notebook.ipynb).
+The full version code notebook with interactive version of above plots can be found in [this link](https://nbviewer.org/github/darwisjap/beauty_retailer_supply_chain_analytics/blob/main/code/notebook.ipynb).
