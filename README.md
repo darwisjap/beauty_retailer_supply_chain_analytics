@@ -65,3 +65,7 @@ No|Feature
 ---
 ## Conclusion
 Data analytics plays a crucial role in supply chain management by providing insights and actionable information to optimize various aspects of the supply chain. In the previous section, only a few examples involving customer insights, inventory management, and cost reduction are illustrated. There are more analysis that we can leverage on to drive business decision in the ever more complex supply chain architecture.
+
+---
+## Code
+A full code can be found in [this link]([https://www.codecademy.com/pages/contribute-docs](https://nbviewer.org/github/darwisjap/beauty_retailer_supply_chain_analytics/blob/main/code/notebook.ipynb)https://nbviewer.org/github/darwisjap/beauty_retailer_supply_chain_analytics/blob/main/code/notebook.ipynb)!.
